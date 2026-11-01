@@ -48,6 +48,15 @@ app = FastAPI(
     },
 )
 
+
+@app.get("/test", tags=["Health Check"])
+def test_api():
+    return {
+        "status": "ok",
+        "message": "Test API is working. This code is running on the server.",
+    }
+
+
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 ASSETS_DIR = os.path.join(BASE_DIR, "..", "assets")
 
