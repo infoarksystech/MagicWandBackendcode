@@ -36,7 +36,7 @@ app = FastAPI(
     title="E-commerce API",
     version="1.0.0",
     contact={
-        "name": "Surajit",
+        "name": "Magicwand",
         "url": "https://github.com/aliseyedi01",
     },
     swagger_ui_parameters={
