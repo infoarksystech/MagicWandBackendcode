@@ -1,0 +1,76 @@
+{
+    "product_type": "multi-plate",
+    "image_filename": "5373d07f7b704ac58c3d122469f46744_upscaled_image_1024x1024.jpeg",
+    "frames": [
+        {
+            "id": "1",
+            "shape_type": "rectangle",
+            "corners": [
+                {
+                    "x": 126,
+                    "y": 136
+                },
+                {
+                    "x": 280,
+                    "y": 346
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "shape_type": "rectangle",
+            "corners": [
+                {
+                    "x": 288,
+                    "y": 86
+                },
+                {
+                    "x": 442,
+                    "y": 399
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "shape_type": "rectangle",
+            "corners": [
+                {
+                    "x": 450,
+                    "y": 33
+                },
+                {
+                    "x": 607,
+                    "y": 446
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "shape_type": "rectangle",
+            "corners": [
+                {
+                    "x": 609,
+                    "y": 86
+                },
+                {
+                    "x": 766,
+                    "y": 396
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "shape_type": "rectangle",
+            "corners": [
+                {
+                    "x": 771,
+                    "y": 136
+                },
+                {
+                    "x": 925,
+                    "y": 346
+                }
+            ]
+        }
+    ]
+}

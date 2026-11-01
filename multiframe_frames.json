@@ -1,0 +1,48 @@
+{
+    "product_type": "multiframe",
+    "image_filename": "faf4d83abe684a128187247b87792ef0_upscaled_image2_1024x1024.jpeg",
+    "frames": [
+        {
+            "id": "1",
+            "shape_type": "rectangle",
+            "corners": [
+                {
+                    "x": 238,
+                    "y": 123
+                },
+                {
+                    "x": 421,
+                    "y": 489
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "shape_type": "rectangle",
+            "corners": [
+                {
+                    "x": 431,
+                    "y": 123
+                },
+                {
+                    "x": 609,
+                    "y": 489
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "shape_type": "rectangle",
+            "corners": [
+                {
+                    "x": 620,
+                    "y": 124
+                },
+                {
+                    "x": 803,
+                    "y": 490
+                }
+            ]
+        }
+    ]
+}
